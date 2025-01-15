@@ -1,4 +1,4 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Injected",
-	Text = "Xeno Remake Injected!",
+StarterGui:SetCore("SendNotification", {
+    Title = "[Xeno Remake]",
+    Text = "Used ingame method. When you leave the game it might crash!"
 })
